@@ -35,8 +35,6 @@ A more useful use case for the package is to use Secrets Manager to store and up
 [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/PROJECTNUMBER?svg=true)](https://ci.appveyor.com/project/cloudyr/aws.secrets)
 [![codecov.io](https://codecov.io/github/cloudyr/aws.secrets/coverage.svg?branch=master)](https://codecov.io/github/cloudyr/aws.secrets?branch=master)
 
-This package is not yet on CRAN. To install the latest development version you can install from the cloudyr drat repository:
-
 ```R
 if (!require("remotes")) {
     install.packages("remotes")
