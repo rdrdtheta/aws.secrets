@@ -48,7 +48,7 @@ Or, to pull a potentially unstable version directly from GitHub:
 if (!require("remotes")) {
     install.packages("remotes")
 }
-remotes::install_github("cloudyr/aws.secrets")
+remotes::install_github("rdrdtheta/aws.secrets")
 ```
 
 
